@@ -1,5 +1,4 @@
-# rag-faiss-qwen
-# 📄 RAG avec FAISS + Qwen-3B (Streamlit)
+# rag-faiss-qwen# 📄 RAG avec FAISS + Qwen-3B (Streamlit)
 
 Cette application Streamlit permet de :
 
