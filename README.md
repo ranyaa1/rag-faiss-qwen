@@ -1,5 +1,5 @@
 # 📄 RAG avec FAISS + Qwen-3B (Streamlit)
-
+![Image](https://github.com/user-attachments/assets/ba1f719c-8b27-4554-95cd-db5f3a620076)
 Cette application Streamlit permet de :
 
 - Extraire le texte d’un fichier PDF,
