@@ -1,6 +1,6 @@
 # 📄 RAG avec FAISS + Qwen-3B (Streamlit)
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/ba1f719c-8b27-4554-95cd-db5f3a620076" width="150"/>
+  <img src="https://github.com/user-attachments/assets/ba1f719c-8b27-4554-95cd-db5f3a620076" width="200"/>
 </p>
 Cette application Streamlit permet de :
 
