@@ -30,10 +30,3 @@ Cette application Streamlit permet de :
 
 ---
 
-## Installation
-
-1. Cloner ce dépôt :
-
-```bash
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
-cd nom-du-repo
